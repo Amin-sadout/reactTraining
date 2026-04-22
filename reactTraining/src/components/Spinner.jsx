@@ -1,6 +1,6 @@
 import React from 'react'
 
-const spinner = () => {
+const Spinner = () => {
   return (
 <div role="status">
       <svg aria-hidden="true"
@@ -19,4 +19,4 @@ const spinner = () => {
   )
 }
 
-export default spinner
+export default Spinner
